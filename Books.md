@@ -18,8 +18,8 @@ A comprehensive collection of beginner-friendly books, YouTube channels, blogs, 
 ## 🛡️ Blue Teaming
 
 - [Blue Team Handbook – Don Murdoch](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756)
-- [Offensive Countermeasures – John Strand](https://www.amazon.com/Offensive-Countermeasures-Active-Response-Defense/dp/1522772658)
-- [Defensive Security Handbook](https://www.oreilly.com/library/view/defensive-security-handbook/9781491960377/)
+- [Offensive Countermeasures – John Strand](https://www.amazon.in/Offensive-Countermeasures-Art-Active-Defense-ebook/dp/B00DQSQ7QY)
+- [Defensive Security Handbook](https://www.amazon.com/Defensive-Security-Handbook-Practices-Infrastructure/dp/1491960388)
 
 ---
 
