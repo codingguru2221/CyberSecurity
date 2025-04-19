@@ -6,9 +6,9 @@ A comprehensive collection of beginner-friendly books, YouTube channels, blogs, 
 
 ## 📘 Books to Start With
 
-- [Cybersecurity for Dummies](https://www.wiley.com/en-us/Cybersecurity+For+Dummies%2C+2nd+Edition-p-9781119560326)
-- [How Cybersecurity Really Works – Sam Grubb](https://www.nostarch.com/howcybersecurityworks)
-- [Cybersecurity: Beginner’s Guide – Dr. Erdal Ozkaya](https://www.amazon.com/Cybersecurity-Beginners-Guide-Erdal-Ozkaya/dp/1800206011)
+- [Cybersecurity For Dummies](https://www.google.co.in/books/edition/Cybersecurity_For_Dummies/9iZOEQAAQBAJ?hl=en&gbpv=0)
+- [How Cybersecurity Really Works – Sam Grubb](https://nostarch.com/cybersecurityreallyworks)
+- [Cybersecurity: The Beginner's Guide – Dr. Erdal Ozkaya](https://www.amazon.in/Cybersecurity-Beginners-comprehensive-getting-cybersecurity-ebook/dp/B07SB5DYM4)
 - [The Web Application Hacker's Handbook](https://www.wiley.com/en-us/The+Web+Application+Hacker%27s+Handbook%3A+Finding+and+Exploiting+Security+Flaws%2C+2nd+Edition-p-9781118026472)
 - [Hacking: The Art of Exploitation](https://www.nostarch.com/hacking2.htm)
 - [The Hacker Playbook 2 & 3](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
