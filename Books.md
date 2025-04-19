@@ -29,34 +29,36 @@ A comprehensive collection of beginner-friendly books, YouTube channels, blogs, 
 
 ---
 
+
 ## 🎥 YouTube Channels
 
 ### English
 - [John Hammond](https://www.youtube.com/c/JohnHammond010)
 - [David Bombal](https://www.youtube.com/c/DavidBombal)
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
-- [Computerphile](https://www.youtube.com/c/Computerphile)
+- [Computerphile](https://www.youtube.com/@Computerphile)
 - [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
 - [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
 - [InsiderPhD](https://www.youtube.com/c/InsiderPhD)
 - [HackerSploit](https://www.youtube.com/c/HackerSploit)
-- [Loi Liang Yong](https://www.youtube.com/user/loiliangyong)
+- [Loi Liang Yang](https://www.youtube.com/@LoiLiangYang)
 - [IppSec](https://www.youtube.com/c/IppSec)
 - [Professor Messer](https://www.youtube.com/user/professormesser)
 - [With Sandra](https://www.youtube.com/c/withsandra)
-- [OffSec](https://www.youtube.com/c/offsectraining)
+- [OffSec Training](https://www.youtube.com/@OffSecTraining)
 - [PwnFunction](https://www.youtube.com/c/pwnfunction)
-- [PowerCert Animated Videos](https://www.youtube.com/c/PowerCert)
+- [PowerCert Animated Videos](https://www.youtube.com/@PowerCertAnimatedVideos)
 - [OWASP](https://www.youtube.com/c/OWASPGLOBAL)
-- [DEF CON Conference](https://www.youtube.com/c/DEFCONConference)
+- [DEF CON Conference](https://www.youtube.com/@DEFCONConference)
 
 ### Hindi
-- [TechChip](https://www.youtube.com/c/TechChip)
+- [TechChip](https://www.youtube.com/@techchipnet)
 - [The Cyber Expert](https://www.youtube.com/c/TheCyberExpert)
 - [Hacker Vlog](https://www.youtube.com/c/HackerVlog)
-- [Defronix Academy](https://www.youtube.com/c/DEFronixAcademy)
+- [Defronix](https://www.youtube.com/@defronix)
 - [Pratik Dabhi](https://www.youtube.com/c/PratikDabhi)
-- [Bitten Tech](https://www.youtube.com/c/BittenTechOfficial)
+- [Bitten Tech](https://www.youtube.com/@BittenTech)
+
 
 ---
 
