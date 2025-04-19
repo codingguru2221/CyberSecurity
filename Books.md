@@ -1,0 +1,115 @@
+# 📚 Cybersecurity Starter Guide
+
+A comprehensive collection of beginner-friendly books, YouTube channels, blogs, platforms, and communities to kickstart your journey into Cybersecurity.
+
+---
+
+## 📘 Books to Start With
+
+- [Cybersecurity for Dummies](https://www.wiley.com/en-us/Cybersecurity+For+Dummies%2C+2nd+Edition-p-9781119560326)
+- [How Cybersecurity Really Works – Sam Grubb](https://www.nostarch.com/howcybersecurityworks)
+- [Cybersecurity: Beginner’s Guide – Dr. Erdal Ozkaya](https://www.amazon.com/Cybersecurity-Beginners-Guide-Erdal-Ozkaya/dp/1800206011)
+- [The Web Application Hacker's Handbook](https://www.wiley.com/en-us/The+Web+Application+Hacker%27s+Handbook%3A+Finding+and+Exploiting+Security+Flaws%2C+2nd+Edition-p-9781118026472)
+- [Hacking: The Art of Exploitation](https://www.nostarch.com/hacking2.htm)
+- [The Hacker Playbook 2 & 3](https://www.amazon.com/Hacker-Playbook-Practical-Penetration-Testing/dp/1512214566)
+
+---
+
+## 🛡️ Blue Teaming
+
+- [Blue Team Handbook – Don Murdoch](https://www.amazon.com/Blue-Team-Handbook-condensed-Responder/dp/1500734756)
+- [Offensive Countermeasures – John Strand](https://www.amazon.com/Offensive-Countermeasures-Active-Response-Defense/dp/1522772658)
+- [Defensive Security Handbook](https://www.oreilly.com/library/view/defensive-security-handbook/9781491960377/)
+
+---
+
+## 🐍 Special Mention
+
+- [Black Hat Python](https://www.nostarch.com/blackhatpython)
+
+---
+
+## 🎥 YouTube Channels
+
+### English
+- [John Hammond](https://www.youtube.com/c/JohnHammond010)
+- [David Bombal](https://www.youtube.com/c/DavidBombal)
+- [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
+- [Computerphile](https://www.youtube.com/c/Computerphile)
+- [The Cyber Mentor](https://www.youtube.com/c/TheCyberMentor)
+- [NetworkChuck](https://www.youtube.com/c/NetworkChuck)
+- [InsiderPhD](https://www.youtube.com/c/InsiderPhD)
+- [HackerSploit](https://www.youtube.com/c/HackerSploit)
+- [Loi Liang Yong](https://www.youtube.com/user/loiliangyong)
+- [IppSec](https://www.youtube.com/c/IppSec)
+- [Professor Messer](https://www.youtube.com/user/professormesser)
+- [With Sandra](https://www.youtube.com/c/withsandra)
+- [OffSec](https://www.youtube.com/c/offsectraining)
+- [PwnFunction](https://www.youtube.com/c/pwnfunction)
+- [PowerCert Animated Videos](https://www.youtube.com/c/PowerCert)
+- [OWASP](https://www.youtube.com/c/OWASPGLOBAL)
+- [DEF CON Conference](https://www.youtube.com/c/DEFCONConference)
+
+### Hindi
+- [TechChip](https://www.youtube.com/c/TechChip)
+- [The Cyber Expert](https://www.youtube.com/c/TheCyberExpert)
+- [Hacker Vlog](https://www.youtube.com/c/HackerVlog)
+- [Defronix Academy](https://www.youtube.com/c/DEFronixAcademy)
+- [Pratik Dabhi](https://www.youtube.com/c/PratikDabhi)
+- [Bitten Tech](https://www.youtube.com/c/BittenTechOfficial)
+
+---
+
+## 📝 Blogs
+
+- [PortSwigger](https://portswigger.net/)
+- [OWASP](https://owasp.org/)
+- [Acunetix](https://www.acunetix.com/blog/)
+- [Invicti](https://www.invicti.com/blog/)
+- [HackTricks](https://book.hacktricks.xyz/)
+- [0xdf Hacks Stuff](https://0xdf.gitlab.io/)
+- [NotSoSecure](https://www.notsosecure.com/blog)
+- [FuzzySecurity](http://www.fuzzysecurity.com/)
+- [OffSec](https://www.offsec.com/blog/)
+- [Rapid7](https://www.rapid7.com/blog/)
+- [Splunk](https://www.splunk.com/en_us/blog.html)
+- [Level Blue Blogs](https://www.levelblue.com/resources/blog)
+- [The DFIR Report](https://thedfirreport.com/)
+- [Bugcrowd](https://www.bugcrowd.com/blog/)
+- [HackerOne](https://www.hackerone.com/blog)
+- [Intigriti](https://blog.intigriti.com/)
+
+---
+
+## 🧪 Practical & CTF Platforms
+
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box](https://www.hackthebox.com/)
+- [OffSec Labs](https://www.offsec.com/labs/)
+- [Blue Team Labs Online](https://blueteamlabs.online/)
+- [LetsDefend.io](https://letsdefend.io/)
+- [PortSwigger Labs](https://portswigger.net/web-security)
+- [PicoCTF](https://picoctf.org/)
+- [OverTheWire](https://overthewire.org/wargames/)
+- [Root Me](https://www.root-me.org/)
+- [Hack This Site](https://www.hackthissite.org/)
+- [RingZer0CTF](https://ringzer0ctf.com/)
+- [W3Challs](https://w3challs.com/)
+- [Hacker101](https://www.hacker101.com/)
+
+---
+
+## 🤝 Communities
+
+- [OffSec](https://www.offsec.com/community/)
+- [TryHackMe](https://tryhackme.com/)
+- [Hack The Box](https://www.hackthebox.com/)
+- [TCM Security](https://tcm-security.com/)
+- [InfoSec Prep](https://infosecprep.com/)
+- [Reddit – r/netsec](https://www.reddit.com/r/netsec/)
+- [Stack Overflow](https://stackoverflow.com/)
+- [GitHub](https://github.com/)
+
+---
+
+> *Start small, stay consistent, and always be curious. Cybersecurity is a vast ocean — keep exploring!*
